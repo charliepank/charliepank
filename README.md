@@ -18,6 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=charliepank&show_icons=true&count_private=true)
-
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=charliepank&theme=github)
